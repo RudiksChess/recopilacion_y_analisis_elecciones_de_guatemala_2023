@@ -1,0 +1,57 @@
+Table: Table_1
+
+Mesa Número ,388 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,,009 ,,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,008 ,,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,026 ,,
+30 ,PARTIDO REPUBLICANO (PR) ,,001 ,,
+31 ,CAMBIO (CAMBIO) ,,000 ,,
+32 ,PARTIDO AZUL (AZUL) ,,001 ,,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,,002 ,,
+18 ,VICTORIA (VICTORIA) ,,00 ,3 ,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,003 ,,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,002 ,,
+26 ,BIENESTAR NACIONAL (BIEN) ,,,,
+37 ,UNION REPUBLICANA (UR) ,,0.02 ,2 ,
+25 ,PARTIDO,DE AVANZADA NACIONAL (PAN) ,0 ,P ,0 ,
+34 ,PARTID DE INTEGRACION NACIONAL Dologo ,,0 ,1 ,
+16 ,FRENTEIDE CONVERGENCIA NACIONAL ,,O ,2 ,
+80 ,COMICECIVICO LA GOTA DE AGUA COMITECIVICOLA GOTA DE AGUA) An ,,000 ,,
+13 ,PARTIDO POLITICO NOSOTROS Unionrep RENT ,0 ,0 ,2 ,
+88 ,SEMILLA WINAO SEMILLA URNG MAIZ_WINAQ) ,0 ,,62 ,
+12 ,FAMILIA (MI FAMIL(A) ,,000 ,,
+33 ,CABAL PPG ,,000 ,,
+11 M, ,VISION CENTVLLORES (VIVA) ,,005 ,,
+,PP has ,,1 ,3 ,
+115 ,PA HOODE OPORTUNIDADES Y DESARPOLLO PODER) ,,0 ,1 ,
+20 ,RENOTACION Y ,,060 ,,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (Es la sumo de los votos obtenidos por las organizaciones politicos) ,,204 ,,
+Votos Nulos ,,0.09 ,,
+Votos en Blanco ,,002 ,,
+Total Votos Válldamente Emitidos (Es la sumo de los votos vólidos, votos nulos y votos en bionco) ,,215 ,,
+Votos Inválidos ,,000 ,,
+Total Votos (Es la suma de los votos válidamente emitidos y votos invólidos) ,,215 ,,
+
+
+
+
+

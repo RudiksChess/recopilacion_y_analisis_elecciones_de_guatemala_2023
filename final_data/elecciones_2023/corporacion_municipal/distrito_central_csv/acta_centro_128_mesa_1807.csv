@@ -1,0 +1,57 @@
+Table: Table_1
+
+Mesa Número ,1807 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre y Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,0 ,0 ,8 ,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,0 ,it ,11 ,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,D ,7 ,4 ,
+30 ,PARTIDO REPUBLICANO (PR) ,1 ,4 ,1 ,
+31 ,CAMBIO (CAMBIO) ,() ,0 ,1 ,
+32 ,PARTIDO AZUL (AZUL) ,7 ,,7) ,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,I ,I ,1 ,
+18 ,VICTORIA (VICTORIA) ,I ,4 ,6 ,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,0 ,Q ,5 ,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,() ,4 ,4 ,
+26 ,BIENESTAR NACIONAL {BIEN) ,0 ,4 ,1 ,
+37 ,UNION REPUBLICANA (UR) ,D ,0 ,Q ,
+25 ,PARTIDO DE AVANZADA NACIONAL (PAN) ,D ,P ,7 ,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,0 ,2 ,7 ,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,4 ,Q ,1 ,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,D ,Q ,1 ,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,(D ,4 ,3 ,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ ,C ,1 ,8 ,
+12 ,M FAMILIA (MI FAMILIA) ,D ,4 ,2 ,
+33 ,CABAL (CABAL) ,0 ,1 ,1 ,
+17 ,VISION CON VALORES (VIVA) ,i) ,Q ,9 ,
+22 ,PODEMOS (PODEMOS) ,0 ,P ,6 ,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,0 ,D ,6 ,
+20 ,COMPROMISO, RENOVACION Y ORDEN (CREO) ,(I) ,E ,1 ,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (Es to suma de los votos obtenidos por las organizaciones politicas) ,,196 ,,
+Votos Nulos ,(D ,1 ,6 ,
+Votos en Blanco ,1 ,1 ,2 ,
+Total Votos Válldamente Emitidos (ES to sumo de los votos válidos, votos nulos y votos en blanco) ,,208 ,,
+Votos Inválidos ,1 ,0 ,2 ,
+Total Votos (Es la sumo de los votos válidomente emitidos votos inválidas) ,,210 ,,
+
+
+
+
+

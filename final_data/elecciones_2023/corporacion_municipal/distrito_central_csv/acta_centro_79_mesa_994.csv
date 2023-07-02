@@ -1,0 +1,57 @@
+Table: Table_1
+
+Mesa Número ,994 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,,012 ,,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,015 ,,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,055 ,,
+30 ,PARTIDO REPUBLICANO (PR) ,,000 ,,
+31 ,CAMBIO (CAMBIO) ,,002 ,,
+32 ,PARTIDO AZUL (AZUL) ,,013 ,,
+27 ,MOVIMIENTO PARA LA LIBERACIÓN DE LOS PUEBLOS (MLP) ,,003 ,,
+18 ,VICTORIA (VICTORIA) ,,002 ,,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,006 ,,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,001 ,,
+26 ,BIENESTAR NACIONAL (BIEN) ,,000 ,3 ,
+37 ,UNION REPUBLICANA (UR) ,,001 ,,
+25 ,PARTIDO DE AVANZADA NACIONAL (PAN) ,,003 ,,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,,001 ,I ,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,000 ,,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,,002 ,,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,,033 ,,
+12 ,MI FAMILIA (Mt FAMILIA) ,,00 ,1 ,
+33 ,CABAL (CASAL) ,,002 ,,
+17 ,VISION CON VALORES (VIVA) ,,008 ,,
+22 ,PODEMOS (PODEMOS) ,,012 ,,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,,000 ,,
+20 ,COMPROMISO. RENOVACION Y ORDEN (CREO) ,,053 ,,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (Es la suma de los votos obtenidos por los organizaciones políticos) ,,229 ,,
+Votos Nulos ,,019 ,,
+Votos en Blanco ,,002 ,,
+Total Votos Válidamente Emitidos (ES to suma de los votos válidos, votos nulos y votos en blanco) ,,250 ,,
+Votos Inválidos ,,,,
+Total Votos (Es to sumo de los votos válidamente emitidos y votos inválidos) ,,250 ,,
+
+
+
+
+

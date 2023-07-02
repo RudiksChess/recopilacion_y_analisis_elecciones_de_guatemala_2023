@@ -1,0 +1,85 @@
+Table: Table_1
+
+Mesa Número ,1805 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,,Corporación Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre y Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,,,9 ,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,3 ,,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,- ,5 ,
+30 ,PARTIDO REPUBLICANO (PR) ,,,3 ,
+31 ,CAMBIO (CAMBIO) ,,,1 ,
+32 ,PARTIDO AZUL (AZUL) ,,,3 ,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,,,- ,
+18 ,VICTORIA (VICTORIA) ,,,3 ,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,,3 ,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,,,
+26 ,BIENESTAR NACIONAL (BIEN) ,,,is ,
+37 ,UNION REPUBLICANA (UR) ,,,,
+25 ,PARTIDO DE AVANZADA NACIONAL (P AN) ,,,2 ,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,,,,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,,,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,,,,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,,,20 ,
+12 ,MI FAMILIA (MI FAMILIA) ,,,1 ,
+33 ,CABAL (CABAL) ,,,is ,
+17 ,VISION CON VALORES (VIVA) ,,,- ,
+22 ,PODEMOS (PODEMOS) ,,,7 ,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,,,1 ,
+20 ,COMPROMISO RENOVACION Y ORDEN (CREO) ,,E ,+ ,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+,,,,
+Total Votos Válidos (Es to suma de los votos obtenidos por los organizaciones políticas) ,1 ,9 ,7 ,
+Votos Nulos ,,1 ,c ,
+Votos en Blanco ,,,3 ,
+Total Votos Válidamente Emitidos (Es la sumo de los votos vólidos, votos nulos y votos en blanco) ,,) ,E ,
+Votos Inválidos ,,,,
+Total Votos (Es la sump de los votos vólidomente emitidos y votos invólidos) ,,,18 ,
+
+
+
+
+
+Table: Table_4
+
+F. One ,Siglas ,
+DPI 234241480101 ,,
+F ,Siglas ,
+DPI 2551669071211 ,Valor ,
+F. Effecting ,Siglas ,
+DPI 3614372110141 ,,
+F. XD ,Sigias J ,
+DPI 5101931400101 ,N IS ,
+F. ,Siglas ,
+DPI 843335810707 ,(jeo ,
+F. ,X Siglas ,
+DPI 23796'21301cl ,,
+F, ,Siglas ,
+DPI ,,
+F. ,Siglas ,
+DPI ,,
+F. ,Siglas ,
+DPI ,,
+F. ,Siglas ,
+DPI ,,
+
+
+
+
+

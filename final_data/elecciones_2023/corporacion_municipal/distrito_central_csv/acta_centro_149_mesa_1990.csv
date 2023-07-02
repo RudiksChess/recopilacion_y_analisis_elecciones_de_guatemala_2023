@@ -1,0 +1,57 @@
+Table: Table_1
+
+Mesa Número ,1990 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (Es la sumo de los votos obtenidos por las organizaciones políticas) ,,024 ,,
+Votos Nulos ,,008 ,,
+Votos en Blanco ,,00 ,1 ,
+Total Votos Válidamente Emitidos (Es la sumo de los votos válidos, votos nulos y votos en blanco) ,0 ,3 ,3 ,
+Votos Inválidos ,,000 ,,
+Total Votos (Es la sumo de los votos válidamente emitidos y votos invólidos) ,,03 ,3 ,
+
+
+
+
+
+Table: Table_3
+
+Código ,Nombre y Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,,002 ,,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,001 ,3 ,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,005 ,,
+30 ,PARTIDO REPUBLICANO (PR) ,0 ,O ,0 ,
+31 ,CAMBIO (CAMBIO) ,,000 ,,
+32 ,PARTIDO AZUL (AZUL) ,,0 ,0 ,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,,000 ,,
+18 ,VICTORIA (VICTORIA) ,0 ,O ,0 ,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,00 ,I ,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,0 ,,
+26 ,BIENESTAR NACIONAL (BIEN) ,,0 ,0 ,
+37 ,UNION REPUBLICANA (UR) ,0 ,O ,0 ,
+25 ,PARTIDO DE AVANZADA NACIONAL (P N) ,,001 ,,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,0 ,0 ,,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,000 ,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,000 ,,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,,000 ,,
+88 ,SEMILLA VRNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,0 ,O ,2 ,
+12 ,MI FAMILIA (MI FAMILIA) ,0 ,0 ,I ,
+33 ,CABAL (CABAL) ,0 ,O ,0 ,
+17 ,VISION CON VALORES (VIVA) ,O ,0 ,0 ,
+22 ,PODEMOS (PODEMOS) ,0 ,0 ,2 ,
+116 ,PARTIDO DE OPORTUNIDADES DESARROLLO (PODER) ,,00 ,0 ,
+20 ,COMPROMISO. RENOVACION Y ORDEN (CREO) ,0 ,0 ,7 ,
+
+
+
+
+

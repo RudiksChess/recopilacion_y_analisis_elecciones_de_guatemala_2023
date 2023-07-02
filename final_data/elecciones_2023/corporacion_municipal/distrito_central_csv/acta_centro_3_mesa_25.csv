@@ -1,0 +1,85 @@
+Table: Table_1
+
+Mesa Número ,25 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre y Siglas ,Votos ,Validos ,,
+23 ,TODOS (TODOS) ,,010 ,,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,017 ,,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,053 ,,
+30 ,PARTIDO REPUBLICANO (PR) ,0 ,01 ,,
+31 ,CAMBIO (CAMBIO) ,0 ,105 ,,
+32 ,PARTIDO AZUL (AZUL) ,,005 ,,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,U ,,,
+18 ,VICTORIA (VICTORIA) ,,,,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,O ,1 ,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,001 ,,
+26 ,BIENESTAR NACIONAL {BIEN) ,,,4 ,
+37 ,UNION REPUBLICANA {UR) ,,001 ,,
+25 ,PARTIDO DE AVANZADA NACIONAL (PAN) ,,003 ,,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,,000 ,,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,,,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,,,,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,,061 ,,
+12 ,MI FAMILIA (MI FAMILIA) ,,001 ,,
+33 ,CABAL (CABAL) ,,002 ,,
+17 ,VISION CON VALORES (VIVA) ,,004 ,,
+22 ,PODÉMOS (PODEMOS) ,0 ,n ,4 ,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,,00 ,,
+20 ,COMPROMISO, RENOVACION Y ORDEN (CREO) ,,041 ,,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (Es la suma de los votos obtenidos por las organizaciones políticas) ,,233 ,,
+Votos Nulos ,,008 ,,
+Votos en Blanco ,,000 ,,
+Total Votos Validamente Emitidos (Es la sumo de los votos válidos, votos nulos y votos en bionco) ,,241 ,,
+Votos Inválidos ,,000 ,,
+Total Votos (Es la sumo de los votos vólidamente emitidos y votos invólidos) ,,24. ,1 ,
+
+
+
+
+
+Table: Table_4
+
+,,
+F. Matalic ,Siglas ,
+DPI 369701259016 ,,
+F. ,Siglas ,
+DPI 2767471790107 ,,
+F, Ed. ,Siglas ,
+DPI 3002478360101 ,,
+F. Ana Farnandez ,Siglas ,
+DPI 1980878370603 ,,
+F. Mini ,Siglas ,
+QPI ,,
+F. se ,Siglas ,
+DPI 7926 598120101 ,,
+F. D ,Siglas ,
+DPI (99) 990080101 ,,
+F. ,Siglas ,
+DPI ,,
+F. ,Siglas ,
+DPI ,,
+F. ,Siglas ,
+DPI ,,
+
+
+
+
+

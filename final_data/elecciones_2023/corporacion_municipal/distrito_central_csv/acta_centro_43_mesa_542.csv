@@ -1,0 +1,90 @@
+Table: Table_1
+
+Mesa Número ,542 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre y Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,,008 ,,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,027 ,,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,042 ,,
+30 ,PARTIDO REPUBLICANO (PR) ,,001 ,,
+31 ,CAMBIO (CAMBIO) ,,006 ,,
+32 ,PARTIDO AZUL (AZUL) ,,004 ,,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,,,,
+18 ,VICTORIA (VICTORIA) ,,009 ,,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,011 ,,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,001 ,,
+26 ,BIENESTAR NACIONAL (BIEN) ,,,,
+37 ,UNION REPUBLICANA (UR) ,,001 ,,
+25 ,PARTIDO DE AVANZADA NACIONAL (P AN) ,,003 ,,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,,,1 ,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,003 ,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,001 ,,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,,003 ,,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,0 ,4 ,4 ,
+12 ,MI FAMILIA (MI FAMILLA) ,,001 ,,
+33 ,CABAL (CABAL) ,,000. ,,
+17 ,VISION CON VALORES (VIVA) ,C ,C ,4 ,
+22 ,PODEMOS (PODEMOS) ,C ,107 ,,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,,,,
+20 ,COMPROMISO, RENOVACION Y ORDEN (CREO) ,,068 ,,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+,,,,
+Total Votos Válidos (Es la suma de los votos obtenidos por los organizaciones políticas) ,,947 ,,
+Votos Nutos ,,025 ,,
+Votos en Blanco ,,00 ,2, ,
+Total Votos Válidamente Emitidos (Es la suma de los votos vólidos, votos nulos y votos en blanco) ,,274 ,,
+Votos Inválidos ,,,,
+Total Votos (Es la sumo de los votos válidamente emitidos y votos invólidos) ,,274 ,,
+
+
+
+
+
+Table: Table_4
+
+JUNTA RECEPTORA DE VOTOS ,,
+Presidente: ,,
+Secretario: and ,,
+Vocal: John ,,
+DPI Y FIRMAS DE FISCALES ORGANIZACIONES POLÍTICAS ,,
+F. Make ,Siglas ,
+DPI 2713547980101 ,PR ,
+F. ,Siglas ,
+DPI (233)837350101 ,Creo ,
+F the ,Siglas ,
+DPI 2076441870101 ,Senilla ,
+F. Mill ,Siglas ,
+DPI 1993693991801 ,PU, ,
+F. ,Siglas ,
+DPI 2294 822600101 ,cabal ,
+F. affeB ,Siglas ,
+DP) 9583174150614 ,Urbr ,
+F. ,Siglas ,
+DPI 1912208250101 ,UNE ,
+F EVERY ,Siglas ,
+DPI 2246797040101 ,VAME ,
+F. Smoke ,Siglas ,
+DPI 1747053520101 ,UR ,
+F. ,Siglas ,
+DPI ,,
+
+
+
+
+

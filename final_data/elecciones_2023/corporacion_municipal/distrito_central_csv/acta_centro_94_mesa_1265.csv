@@ -1,0 +1,57 @@
+Table: Table_1
+
+Mesa Número ,1265 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código ,Nombre y Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,,003 ,3 ,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,,02 ,4 ,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,,03 ,1 ,
+30 ,PARTIDO REPUBLICANO (PR) ,,00 ,1 ,
+31 ,CAMBIO (CAMBIO) ,,00. ,0 ,
+32 ,PARTIDO AZUL (AZUL) ,,00 ,2 ,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,U ,0 ,2 ,
+18 ,VICTORIA (VICTORIA) ,,00 ,5 ,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,U ,a ,6 ,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,0 ,0 ,0 ,
+26 ,BIENESTAR NACIONAL (BIEN) ,,00 ,2 ,
+37 ,UNION REPUBLICANA (UR) ,,00 ,1 ,
+25 ,PARTIDO DE AVANZADA NACIONAL (PAN) ,,002 ,,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,,001 ,,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,001 ,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,000 ,,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,,002 ,,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,,0-2 ,0 ,
+12 ,MI FAMILIA (Mr FAMILIA) ,,00 ,1 ,
+33 ,CASAL (CABAL) ,,00 ,4 ,
+17 ,VISION CON VALORES (VIVA) ,,00 ,6 ,
+22 ,PODEMOS (PODEMOS) ,,00 ,9 ,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,,00 ,3 ,
+20 ,COMPROMISO, RENOVACION Y ORDEN (CREO) ,,07 ,3 ,
+
+
+
+
+
+Table: Table_3
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (Es la sumo de los votos obtenidos por las organizaciones politicas) ,,205 ,,
+Votos Nulos ,,01 ,0 ,
+Votos en Bianco ,,00 ,2 ,
+Total Votos Válidamente Emitidos (Es la sumo de los votos válidos, votos nulos y votos en bianco) ,,21 ,7 ,
+Votos Inválidos ,,004 ,,
+Total Votos (Es la suma de los votos válidamente emitidos y votos inválidos) ,2 ,2 ,1 ,
+
+
+
+
+

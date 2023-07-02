@@ -1,0 +1,57 @@
+Table: Table_1
+
+Mesa Número ,1532 ,,
+Departamento ,01 ,Guatemala ,
+Municipio ,01 ,Distrito Central ,
+Tipo de Elección ,Corporación ,Municipal ,
+
+
+
+
+
+Table: Table_2
+
+Código Nombre y Siglas ,,Votos ,Válidos ,
+Total Votos Válidos (ES to sumo de los votos obtenidos por los organizaciones politicas) ,,4 ,6 ,
+Votos Nulos ,0 ,/ ,7 ,
+Votos en Blanco ,,001 ,3 ,
+Total Votos Válidamente Emitidos (Es la sumo de los votos vólidos, votos nulos y votos en bionco) ,,266 ,,
+Votos Inválidos ,,13 ,4 ,
+Total Votos (Es la sump de los votos válidamente emitidos y votos invólidos) ,,10 ,O ,
+
+
+
+
+
+Table: Table_3
+
+Código ,Nombre y Siglas ,Votos ,Válidos ,,
+23 ,TODOS (TODOS) ,0 ,/ ,0 ,
+15 ,UNIDAD NACIONAL DE LA ESPERANZA (UNE) ,0 ,,7 ,
+41 ,VALOR UNIONISTA (VALOR UNIONISTA) ,0 ,5 ,0 ,
+30 ,PARTIDO REPUBLICANO (PR) ,,000 ,,
+31 ,CAMBIO (CAMBIO) ,0 ,O ,,
+32 ,PARTIDO AZUL (AZUL) ,0 ,0 ,,
+27 ,MOVIMIENTO PARA LA LIBERACION DE LOS PUEBLOS (MLP) ,,00 ,/ ,
+18 ,VICTORIA (VICTORIA) ,,00 ,/ ,
+36 ,VAMOS POR UNA GUATEMALA DIFERENTE (VAMOS) ,,00 ,6 ,
+28 ,PARTIDO HUMANISTA DE GUATEMALA (PHG) ,,000 ,,
+26 ,BIENESTAR NACIONAL (BIEN) ,,O ,3 ,
+37 ,UNION REPUBLICANA (UR) ,,O ,,
+25 ,PARTIDO DE AVANZADA NACIONAL (PAN) ,,,4 ,
+34 ,PARTIDO DE INTEGRACIÓN NACIONAL (PIN) ,,,,
+16 ,FRENTE DE CONVERGENCIA NACIONAL (FCN-NACION) ,,COO ,,
+80 ,COMITE CIVICO LA GOTA DE AGUA (COMITE CIVICO LA GOTA DE AGUA) ,,0 ,8 ,
+13 ,PARTIDO POLITICO NOSOTROS (PPN) ,0 ,0 ,,
+88 ,SEMILLA URNG-MAIZ WINAQ (SEMILLA URNG-MAIZ WINAQ) ,0 ,5 ,/ ,
+12 ,MI FAMILIA (MI FAMILIA) ,0 ,O ,0 ,
+33 ,CABAL (CABAL) ,0 ,0 ,3 ,
+17 ,VISION CON VALORES (VIVA) ,0 ,0 ,I ,
+22 ,PODEMOS (PODEMOS) ,0 ,/ ,0 ,
+116 ,PARTIDO DE OPORTUNIDADES Y DESARROLLO (PODER) ,0 ,,0 ,
+20 ,COMPROMISO, RENOVACION Y ORDEN (CREO) ,0 ,8 ,3 ,
+
+
+
+
+
